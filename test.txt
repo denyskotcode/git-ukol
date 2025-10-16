@@ -3,3 +3,5 @@ Druhý řádek
 Třetí řádek
 Změna ve větvi feature
 Řádek z větve master
+Řádek z větve dalsi-feature
+
